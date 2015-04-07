@@ -6,6 +6,7 @@ public class home {
         double P = 17.0;
         double S = 35.0;
 
+
         if (S < 0 || P < 0) {
             System.out.println("Dannie ne verny");
         } else {
